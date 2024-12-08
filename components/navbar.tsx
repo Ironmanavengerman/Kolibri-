@@ -53,7 +53,7 @@ export function Navbar() {
               asChild
               className="bg-secondary text-secondary-foreground hover:bg-secondary/90"
             >
-              <Link href="/new-deed">Ny inteckning</Link>
+              <Link href="/skapa-pantbrev">Ny inteckning</Link>
             </Button>
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
